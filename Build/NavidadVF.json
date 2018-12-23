@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "NavidadVF.data.unityweb",
+"asmCodeUrl": "NavidadVF.asm.code.unityweb",
+"asmMemoryUrl": "NavidadVF.asm.memory.unityweb",
+"asmFrameworkUrl": "NavidadVF.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
